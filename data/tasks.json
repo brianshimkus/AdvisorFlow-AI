@@ -1,0 +1,31 @@
+{
+	"northstar": [
+		{
+			"task_id": "task-ns-041",
+			"title": "Send regional manager adoption report",
+			"status": "open",
+			"due_date": "2026-07-18"
+		},
+		{
+			"task_id": "task-ns-038",
+			"title": "Schedule implementation scoping call for expansion package",
+			"status": "overdue",
+			"due_date": "2026-07-10"
+		}
+	],
+	"apex": [
+		{
+			"task_id": "task-ax-019",
+			"title": "Identify new economic buyer after VP Ops departure",
+			"status": "open",
+			"due_date": "2026-07-22"
+		},
+		{
+			"task_id": "task-ax-015",
+			"title": "Prep renewal ROI deck for finance review",
+			"status": "overdue",
+			"due_date": "2026-07-08"
+		}
+	],
+	"beacon": []
+}

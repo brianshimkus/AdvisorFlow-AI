@@ -1,0 +1,46 @@
+[
+	{
+		"client_id": "northstar",
+		"client_name": "Northstar Manufacturing",
+		"industry": "Industrial Manufacturing",
+		"relationship_stage": "Expansion",
+		"current_products": ["Analytics Dashboard", "Workflow Automation"],
+		"business_goals": [
+			"Reduce manual reporting",
+			"Improve sales forecast accuracy",
+			"Automate weekly leadership updates"
+		],
+		"known_risks": [
+			"Low adoption among regional managers",
+			"Concerns about implementation complexity"
+		]
+	},
+	{
+		"client_id": "apex",
+		"client_name": "Apex Logistics",
+		"industry": "Transportation & Logistics",
+		"relationship_stage": "Renewal",
+		"current_products": ["Workflow Automation", "Fleet Insights Add-on"],
+		"business_goals": [
+			"Cut dispatch turnaround time",
+			"Consolidate reporting across three regional hubs",
+			"Justify renewal budget to finance leadership"
+		],
+		"known_risks": [
+			"Champion (VP Ops) left the company in June",
+			"Fleet Insights usage down 18% quarter-over-quarter",
+			"Competitor demo scheduled for next month"
+		]
+	},
+	{
+		"client_id": "beacon",
+		"client_name": "Beacon Health Partners",
+		"industry": "Healthcare Services",
+		"relationship_stage": "Onboarding",
+		"current_products": ["Analytics Dashboard"],
+		"business_goals": [
+			"Stand up HIPAA-compliant reporting for regional clinics"
+		],
+		"known_risks": []
+	}
+]

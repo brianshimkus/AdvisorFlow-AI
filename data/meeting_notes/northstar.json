@@ -1,0 +1,14 @@
+[
+	{
+		"source_id": "meeting-note-2026-06-03",
+		"source_type": "meeting_note",
+		"date": "2026-06-03",
+		"snippet": "Northstar's ops director asked about integrating Workflow Automation with their existing MES system. Flagged that regional plant managers have been slow to adopt the dashboard rollout."
+	},
+	{
+		"source_id": "meeting-note-2026-07-01",
+		"source_type": "meeting_note",
+		"date": "2026-07-01",
+		"snippet": "Client asked whether the system can integrate with Salesforce and ServiceNow. Also raised concerns about how long implementation would take for the expansion package."
+	}
+]

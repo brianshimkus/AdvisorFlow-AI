@@ -1,0 +1,38 @@
+{
+	"northstar": [
+		{
+			"event_id": "act-ns-101",
+			"date": "2026-07-05",
+			"type": "support_ticket",
+			"summary": "Opened a P2 ticket about dashboard refresh latency in the EU region."
+		},
+		{
+			"event_id": "act-ns-098",
+			"date": "2026-06-28",
+			"type": "usage_change",
+			"summary": "Weekly active users up 9% following the Q2 training push."
+		}
+	],
+	"apex": [
+		{
+			"event_id": "act-ax-054",
+			"date": "2026-07-02",
+			"type": "usage_change",
+			"summary": "Fleet Insights add-on usage down 18% quarter-over-quarter."
+		},
+		{
+			"event_id": "act-ax-050",
+			"date": "2026-06-15",
+			"type": "contract",
+			"summary": "Renewal contract sent for signature, 60 days out from expiration."
+		}
+	],
+	"beacon": [
+		{
+			"event_id": "act-bc-002",
+			"date": "2026-06-30",
+			"type": "onboarding",
+			"summary": "Kickoff call completed. Data migration in progress."
+		}
+	]
+}
