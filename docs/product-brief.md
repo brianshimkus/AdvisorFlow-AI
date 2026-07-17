@@ -1,4 +1,4 @@
-# Product Brief: AdvisorFlow AI
+# Product Brief
 
 Problem:
 Advisors spend too much time manually gathering context before client meetings.

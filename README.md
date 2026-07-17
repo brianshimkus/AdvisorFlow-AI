@@ -13,7 +13,3 @@ internal playbooks. Prep quality varies by person, and important risks get misse
 The advisor selects a client. AdvisorFlow AI retrieves relevant context (CRM data,
 meeting notes, tasks, account activity, internal playbooks) and generates a
 source-grounded meeting prep brief, with a human reviewer in the loop.
-
-## Status
-
-Just getting started — repo scaffolding only so far.
